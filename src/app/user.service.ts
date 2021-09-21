@@ -21,7 +21,7 @@ export class UserService {
     githubAddress: "http://www.github.com/calebematos",
     googleAccount: "",
     linkedinAccount: "linkedin.com/in/calebematos",
-    linkedinAddress: "http://linkedin.com/in/calebematos",
+    linkedinAddress: "http://linkedin.com/in/lucascalebematos",
     twitterAccount: "twitter.com/calebematos",
     twitterAddress: "http://twitter.com/calebematos",
     otherAccount: ""
