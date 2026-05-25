@@ -6,15 +6,15 @@ export class UserService {
     name: "Lucas Calebe Matos Lopes",
     jobTitle: "Full Stack Developer",
     aboutMe: `
-    I'm a Senior Software Engineer with over 8 years of experience developing software with high standards and interacting with multiple 
-    stakeholders from technical and non-technical backgrounds, ensuring clarity, quality, and continuous delivery. 
-    I work with technologies such as Java, Hibernate, SQL, Oracle Databases. I am committed to working and willing to help. 
-    Bachelor's Degree in Information Systems. I love to develop and study software development. In my free time, 
-    I stay with my little baby, playing with her. 
-    When she is sleeping I take the opportunity to play with my puppy(Totti), watch series, read manga and play some games.
+    Senior Java Engineer with 12+ years of experience building scalable, high-quality backend systems — currently at Avenue Code (a US-based software consulting firm) for nearly 6 years.
+    I specialize in Java, Spring Boot, and microservices architecture, with hands-on experience in REST API design, message queues (RabbitMQ), automated testing (JUnit, Cucumber), and cross-system integrations (SharePoint, OAuth2, SOAP).
+    My background spans healthcare (Philips), fintech, education, and enterprise systems — giving me a broad perspective on how software decisions translate into real business outcomes.
+    I'm fluent in English and comfortable working with international teams in distributed, agile environments.
+    📌 Currently: Senior Software Engineer @ Avenue Code
+    🛠️ Stack: Java · Spring Boot · Microservices · RabbitMQ · JUnit · Cucumber · SQL · Oracle · REST APIs
    `,
     profilePicture: "./assets/profile.jpeg",
-    location: "Brazil",
+    location: "Blumenau, SC",
     email: "calebematos@gmail.com",
     devpostAccount: "",
     facebookAccount: "facebook.com/calebe.matos.5",
@@ -22,7 +22,7 @@ export class UserService {
     githubAccount: "github.com/calebematos",
     githubAddress: "http://www.github.com/calebematos",
     googleAccount: "",
-    linkedinAccount: "linkedin.com/in/calebematos",
+    linkedinAccount: "linkedin.com/in/lucascalebematos",
     linkedinAddress: "http://linkedin.com/in/lucascalebematos",
     twitterAccount: "twitter.com/calebematos",
     twitterAddress: "http://twitter.com/calebematos",

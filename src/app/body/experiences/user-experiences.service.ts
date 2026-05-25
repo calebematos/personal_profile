@@ -27,7 +27,7 @@ export class UserExperiencesService {
       },
       {
         companyName: "Integritas",
-        startDate: "Feb/2017",
+        startDate: "Feb/2019",
         endDate: "Oct/2020",
         jobType: "Full Stack Developer",
         jobTitle: "[Your job's title here]",

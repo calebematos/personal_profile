@@ -17,7 +17,7 @@ export class PageService {
     awardsBackgroundColor: "white",
     showContact: true,
     contactBackgroundColor: "rgb(66, 73, 73)",
-    resumeTitle: "SOFTWARE DEVELOPER",
+    resumeTitle: "Senior Java Engineer | Spring Boot · Microservices · Cloud",
     projectLink: "https://github.com/calebematos/personal_profile_angular4"
   };
 
