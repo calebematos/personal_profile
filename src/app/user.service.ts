@@ -13,7 +13,7 @@ export class UserService {
     I stay with my little baby, playing with her. 
     When she is sleeping I take the opportunity to play with my puppy(Totti), watch series, read manga and play some games.
    `,
-    profilePicture: "./assets/profile.jpg",
+    profilePicture: "./assets/profile.jpeg",
     location: "Brazil",
     email: "calebematos@gmail.com",
     devpostAccount: "",
