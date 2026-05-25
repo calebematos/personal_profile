@@ -9,7 +9,7 @@ export class UserAbilitiesService {
         title: "Languages",
         skills: [
           {
-            name: "Java 8",
+            name: "Java",
             proficiency: 5 //"[5 to 0]"
           },
           {
@@ -46,6 +46,44 @@ export class UserAbilitiesService {
             proficiency: 4
           }
         ],
+      },
+      {
+        title: "Cloud & DevOps",
+        skills: [
+          {
+            name: "Docker",
+            proficiency: 5
+          },
+          {
+            name: "Kubernetes",
+            proficiency: 3
+          },
+          {
+            name: "AKS - Azure",
+            proficiency: 4
+          },
+          {
+            name: "GitHub Actions",
+            proficiency: 4
+          },
+          {
+            name: "Jenkins",
+            proficiency: 4
+          }
+        ]
+      },
+      {
+        title: "Messaging",
+        skills: [
+          {
+            name: "Apache Kafka",
+            proficiency: 4
+          },
+          {
+            name: "RabbitMQ",
+            proficiency: 3
+          }
+        ]
       },
       {
         title: "Web Frameworks",
@@ -98,7 +136,7 @@ export class UserAbilitiesService {
           },
           {
             name: "PostGreSql",
-            proficiency: 3
+            proficiency: 4
           },
           {
             name: "MongoDb",
@@ -131,8 +169,16 @@ export class UserAbilitiesService {
             proficiency: 4
           },
           {
+            name: "Karate",
+            proficiency: 4
+          },
+          {
+            name: "Cucumber",
+            proficiency: 4
+          },
+          {
             name: "Sonar",
-            proficiency: 3
+            proficiency: 4
           }
         ],
       }
